@@ -1,7 +1,7 @@
 # Airbnb Seattle Dataset Analysis
 
 ## Overview
-This project focuses on analyzing the Airbnb Seattle dataset to uncover factors that influence nightly listing prices. Various machine learning techniques, such as feature correlation analysis, principal component analysis (PCA), and Lasso regression, were used to identify important features affecting the price.
+This project focuses on analyzing the Airbnb Seattle dataset to uncover trend and factors that influence nightly listing prices. Various machine learning techniques, such as feature correlation analysis, and Lasso regression, were used to identify important features affecting the price.
 
 ## Objective
 To determine the factors most correlated with predicting the listing nightly price in Seattle Airbnb listings.
